@@ -1,5 +1,9 @@
 package com.penn.algorithm.sort;
 
+/**
+ * 选择排序
+ * 每次循环定位最小的元素
+ */
 public class SelectionSort {
 
     public static void main(String args[]){

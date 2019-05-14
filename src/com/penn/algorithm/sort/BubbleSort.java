@@ -1,5 +1,9 @@
 package com.penn.algorithm.sort;
 
+/**
+ * 冒泡排序
+ * 相邻的元素比较
+ */
 public class BubbleSort {
     public static void main(String args[]){
         int[] arrays = new int[10];
